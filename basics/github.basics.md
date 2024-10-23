@@ -1,6 +1,4 @@
-```
-Document from link:https://docs.chaicode.com/home-for-programmers/
-```
+``` Document from link:https://docs.chaicode.com/home-for-programmers/ ```
 
 ## Git
 Git is a version control system that is used to track changes to your files. It is a free and open-source software that is available for Windows, macOS, and Linux. Remember, GIT is a software and can be installed on your computer.
