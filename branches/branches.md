@@ -13,3 +13,4 @@ git checkout orange-mode
 ```
 
 ### Use git graph extension for better graphical knowledge
+It helps to know better understanding on how branch, merge and conflicts works.
