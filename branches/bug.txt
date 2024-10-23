@@ -1,3 +1,7 @@
 This is branch switching bug fixing file.
 
 Fixed another bug
+
+Another bug was found and fixed too.
+
+Final bug also fixed
