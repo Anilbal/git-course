@@ -5,3 +5,5 @@ Fixed another bug
 Another bug was found and fixed too.
 
 Final bug also fixed
+
+This is main bug fixs.
