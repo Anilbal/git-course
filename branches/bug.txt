@@ -4,4 +4,7 @@ Fixed another bug
 
 Another bug was found and fixed too.
 
-Final bug also fixed
+Final bug also fixed...
+
+
+This is my main bug fixing code
